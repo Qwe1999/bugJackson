@@ -1,0 +1,41 @@
+[
+  {
+    "numberLesson" : 6,
+    "group" : {
+      "number" : "232"
+    },
+
+    "day" : "Monday",
+    "room" : {
+      "number" : "123"
+    },
+
+    "teacher" :{
+      "firstName" : "Ivan",
+      "lastName" : "Kovlov"
+    },
+
+    "subject" : {
+      "name" : "Math"
+    }
+
+  },
+
+  {
+    "numberLesson": 3,
+    "group": {
+      "number": "111"
+    },
+    "day": "Monday",
+    "room": {
+      "number": "113"
+    },
+    "teacher": {
+      "firstName": "Ivani78o",
+      "lastName": "Kovlov"
+    },
+    "subject": {
+      "name": "Math"
+    }
+  }
+  ]
