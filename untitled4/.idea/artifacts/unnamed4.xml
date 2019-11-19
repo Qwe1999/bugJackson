@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="unnamed4">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed4</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled4.main" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="untitled4/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+
+`squid:S2583""DChange this condition so that it does not always evaluate to "false"(¡¹§‡ûÿÿÿÿ
+‚squid:S2178""fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(¡¹§‡ûÿÿÿÿ
+š%squid:RedundantThrowsDeclarationCheck!"dRemove the declaration of thrown exception 'exceptions.GroupException' which is a runtime exception.(©ÚÔÛúÿÿÿÿ

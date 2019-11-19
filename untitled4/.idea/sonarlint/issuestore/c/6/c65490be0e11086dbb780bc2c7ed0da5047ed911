@@ -1,0 +1,26 @@
+
+rsquid:S00116"URename this field "DROP_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®»ø–ùÿÿÿÿ
+=squid:S1170"!Make this final field static too.(§èİ—øÿÿÿÿ
+8squid:S1170"!Make this final field static too.(ÆÖÉ™
+=squid:S1170"!Make this final field static too.(®»ø–ùÿÿÿÿ
+8squid:S1170"!Make this final field static too.(Şü
+—%squid:RedundantThrowsDeclarationCheck?"fRemove the declaration of thrown exception 'exceptions.SubjectException' which is a runtime exception.(›€‹é
+osquid:S00116"WRename this field "DELETE_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÊóÈ
+Zsquid:S1155H">Use isEmpty() to check whether the collection is empty or not.(“üëêøÿÿÿÿ
+osquid:S00116"WRename this field "CREATE_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÂ ©
+Zsquid:S1155Z">Use isEmpty() to check whether the collection is empty or not.(“üëêøÿÿÿÿ
+nsquid:S00116"QRename this field "INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§èİ—øÿÿÿÿ
+8squid:S1170"!Make this final field static too.(ô—Ú°
+osquid:S00116"WRename this field "SELECT_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô—Ú°
+?squid:S1170"!Make this final field static too.(ôØŞÚ8‰ŒÍùç-
+Ysquid:UselessImportCheck")Remove this unused import 'model.Lesson'.(ÚŞ•şùÿÿÿÿ8¦°»ùç-
+xsquid:S00116"YRename this field "DELETE_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôØŞÚ8‰ŒÍùç-
+8squid:S1170"!Make this final field static too.(ÿÂ ©
+Zsquid:S1155l">Use isEmpty() to check whether the collection is empty or not.(“üëêøÿÿÿÿ
+qsquid:S00116"YRename this field "SELECT_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÖÉ™
+8squid:S1170"!Make this final field static too.(»ÊóÈ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+œ%squid:RedundantThrowsDeclarationCheckd"fRemove the declaration of thrown exception 'exceptions.SubjectException' which is a runtime exception.(ÁÆ¼³ÿÿÿÿÿ
+csquid:S20956"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+msquid:S00116"URename this field "SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şü
+ysquid:S4087:"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(³úÀ‹

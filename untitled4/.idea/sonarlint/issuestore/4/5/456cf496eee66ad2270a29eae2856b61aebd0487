@@ -1,0 +1,28 @@
+
+Vsquid:S1155Þ">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å
+dsquid:S2095É"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+squid:S1192("tDefine a constant instead of duplicating this literal " class.id as classId, class.number as classNumber, " 7 times.(…¤»ùÿÿÿÿ
+Vsquid:S1155ð">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å
+Fsquid:S1068".Remove this unused "DROP_TABLE" private field.(¼°€è
+]squid:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å8ðì°ùç-
+Vsquid:S1155º">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å
+Hsquid:S1068%"1Remove this unused "SELECT_BY_DAY" private field.(ðöúµ
+vsquid:S1192,"_Define a constant instead of duplicating this literal " teacher.lastName as LastName " 6 times.(÷ã’ï
+lsquid:S1192X"ODefine a constant instead of duplicating this literal "from schedule " 3 times.(ü¼™8Ç¹·ùç-
+Dsquid:S1481Á"'Remove this unused "id" local variable.(ùç–—ûÿÿÿÿ
+€squid:S1192'"iDefine a constant instead of duplicating this literal " schedule.numberLesson as NumberLesson, " 7 times.(ÔÏ¨¸
+š%squid:RedundantThrowsDeclarationCheck²"cRemove the declaration of thrown exception 'exceptions.RoomException' which is a runtime exception.(¯ÐŽåþÿÿÿÿ
+_squid:S11923"HDefine a constant instead of duplicating this literal "SELECT " 6 times.(ˆßÇ
+šsquid:S1192&"~Define a constant instead of duplicating this literal " schedule.id as scheduleId, schedule.dayLesson as DayLesson, " 7 times.(©•ß·ÿÿÿÿÿ
+Vsquid:S1155©">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å
+’squid:S1192+"{Define a constant instead of duplicating this literal " teacher.id as teacherId, teacher.firstName as FirstName, " 6 times.(¸•‰³
+”squid:S1192*"xDefine a constant instead of duplicating this literal " subject.id as subjectId, subject.name as subjectName, " 7 times.(ù³ƒûÿÿÿÿ
+‡squid:S11921"qDefine a constant instead of duplicating this literal " JOIN teacher ON teacher.id = schedule.teacherid" 6 times.(¢§ÒQ
+ˆsquid:S11920"qDefine a constant instead of duplicating this literal " JOIN subject ON subject.id = schedule.subjectid" 6 times.(Ð™³ê
+Usquid:S1068n"2Remove this unused "SELECT_BY_ROOM" private field.(ÂúÂ„úÿÿÿÿ8Ç¹·ùç-
+‡squid:S1192."kDefine a constant instead of duplicating this literal " JOIN class ON class.id = schedule.classid" 6 times.(’ÛÙ´ýÿÿÿÿ
+fsquid:S1192-"PDefine a constant instead of duplicating this literal " from schedule " 4 times.(ü¼™
+„squid:S1192/"hDefine a constant instead of duplicating this literal " JOIN room ON room.id = schedule.roomid" 6 times.(’øò§úÿÿÿÿ
+]squid:S1155–">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å8¨–¶ùç-
+Tsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+†squid:S1192)"pDefine a constant instead of duplicating this literal " room.id as roomId, room.number as roomNumber, " 7 times.(Ðçý

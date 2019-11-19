@@ -1,0 +1,16 @@
+
+Ssquid:UselessImportCheck"/Remove this unused import 'model.NumberLesson'.(Û•úŸ
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8í¦ÛÆç-
+Osquid:UselessImportCheck"&Remove this unused import 'model.Day'.(ØÑ¨³úÿÿÿÿ
+]squid:UselessImportCheck	"4Remove this unused import 'service.ServiceSchedule'.(ŠÔœÌøÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äúôÇûÿÿÿÿ
+Bsquid:S1989"&Add a "try/catch" block for "forward".(ÜÕˆêøÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'database.DBConnection'.(•…Æ£
+\squid:UselessImportCheck"1Remove this unused import 'com.google.gson.Gson'.(–§8í¦ÛÆç-
+Rsquid:UselessImportCheck")Remove this unused import 'model.Lesson'.(ÚŞ•şùÿÿÿÿ
+Bsquid:S1989"&Add a "try/catch" block for "forward".(ÜÕˆêøÿÿÿÿ
+Lsquid:UselessImportCheck"(Remove this unused import 'model.Group'.(®ä¨ˆ
+Xsquid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+Vsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ

@@ -1,0 +1,9 @@
+
+csquid:S20955"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ÿ´∆√˘ˇˇˇˇ
+Usquid:S1155I">Use isEmpty() to check whether the collection is empty or not.(ú„Ôñ
+î%squid:RedundantThrowsDeclarationCheckR"cRemove the declaration of thrown exception 'exceptions.RoomException' which is a runtime exception.(ä°èø
+ysquid:S40879"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(≥˙¿ã
+ô%squid:RedundantThrowsDeclarationChecke"cRemove the declaration of thrown exception 'exceptions.RoomException' which is a runtime exception.(µÈ“ï˛ˇˇˇˇ
+î%squid:RedundantThrowsDeclarationCheck?"cRemove the declaration of thrown exception 'exceptions.RoomException' which is a runtime exception.(ÜÑ§Ë
+Usquid:S1155m">Use isEmpty() to check whether the collection is empty or not.(ú„Ôñ
+Usquid:S1155[">Use isEmpty() to check whether the collection is empty or not.(ú„Ôñ

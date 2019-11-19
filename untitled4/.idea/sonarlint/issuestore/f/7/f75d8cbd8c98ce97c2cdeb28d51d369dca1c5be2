@@ -1,0 +1,7 @@
+
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¨¯¿
+Vsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+Isquid:S1989"&Add a "try/catch" block for "forward".(ÜÕˆêøÿÿÿÿ8ãì´øç-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äúôÇûÿÿÿÿ
+Isquid:S1989"&Add a "try/catch" block for "forward".(ÜÕˆêøÿÿÿÿ8ãì´øç-
+Qsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿

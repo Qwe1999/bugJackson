@@ -1,0 +1,24 @@
+
+ssquid:S00116"[Rename this field "SELECT_BY_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãœô¢
+=squid:S1170"!Make this final field static too.(¥Œûüÿÿÿÿ
+csquid:S20953"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+Zsquid:S1155j">Use isEmpty() to check whether the collection is empty or not.(ØŒöùÿÿÿÿ
+8squid:S1170"!Make this final field static too.(‡úä£
+osquid:S00116"WRename this field "SELECT_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‡§å
+=squid:S1170"!Make this final field static too.(°’§îüÿÿÿÿ
+Zsquid:S1155Y">Use isEmpty() to check whether the collection is empty or not.(ØŒöùÿÿÿÿ
+msquid:S00116"URename this field "DROP_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ£ÓŞ
+8squid:S1170"!Make this final field static too.(Ãœô¢
+8squid:S1170"!Make this final field static too.(æ£ÓŞ
+ysquid:S40877"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(³úÀ‹
+=squid:S1170"!Make this final field static too.(ùÏ˜ëùÿÿÿÿ
+tsquid:S00116"WRename this field "CREATE_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Œûüÿÿÿÿ
+•%squid:RedundantThrowsDeclarationCheckR"dRemove the declaration of thrown exception 'exceptions.GroupException' which is a runtime exception.(°ªø
+isquid:S00116"QRename this field "INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡úä£
+•%squid:RedundantThrowsDeclarationCheckd"dRemove the declaration of thrown exception 'exceptions.GroupException' which is a runtime exception.(È–ì²
+tsquid:S00116"WRename this field "DELETE_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿè¥òûÿÿÿÿ
+8squid:S1170"!Make this final field static too.(Š‡§å
+Zsquid:S1155F">Use isEmpty() to check whether the collection is empty or not.(ØŒöùÿÿÿÿ
+rsquid:S00116"URename this field "SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÏ˜ëùÿÿÿÿ
+xsquid:S00116"[Rename this field "DELETE_BY_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’§îüÿÿÿÿ
+=squid:S1170"!Make this final field static too.(Ÿè¥òûÿÿÿÿ

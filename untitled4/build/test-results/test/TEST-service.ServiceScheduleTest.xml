@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ServiceScheduleTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-11-08T10:47:33" hostname="DESKTOP-7KSLBU0" time="0.046">
+  <properties/>
+  <testcase name="addLessonBusy(Schedule)[1]" classname="service.ServiceScheduleTest" time="0.023"/>
+  <testcase name="getByTeacher(List, Teacher)[1]" classname="service.ServiceScheduleTest" time="0.002"/>
+  <testcase name="addLesson(Schedule)[1]" classname="service.ServiceScheduleTest" time="0.002"/>
+  <testcase name="getByDayGroup(List, Day, Group)[1]" classname="service.ServiceScheduleTest" time="0.002"/>
+  <testcase name="getByGroup(List, Group)[1]" classname="service.ServiceScheduleTest" time="0.001"/>
+  <testcase name="getByDay(List, Day)[1]" classname="service.ServiceScheduleTest" time="0.003"/>
+  <system-out><![CDATA[[Schedule{id=0, numberLesson=one, group=Group{id=0, number='111'}, day=Monday, room=Room{id=0, number=111}, teacher=Teacher{id=0, firstName='Vlad', lastName='Banar'}, subject=Subject{id=0, name='Math'}}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

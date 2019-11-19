@@ -1,0 +1,13 @@
+
+Esquid:S1905&")Remove this unnecessary cast to "String".(ò¯Ã†ùÿÿÿÿ
+Isquid:S1989B"&Add a "try/catch" block for "forward".(ÜÕˆêøÿÿÿÿ8ï˜óÇç-
+ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8Ý²¶÷ç-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äúôÇûÿÿÿÿ
+Ksquid:S1989b"(Add a "try/catch" block for "getWriter".(©ÉÞ­ùÿÿÿÿ8ŒëÕôç-
+Zsquid:UselessImportCheck"1Remove this unused import 'javax.xml.ws.Service'.(¬ŒòÓøÿÿÿÿ
+Ksquid:S1989R"(Add a "try/catch" block for "getWriter".(©ÉÞ­ùÿÿÿÿ8Úð‹õç-
+Isquid:S1989B"&Add a "try/catch" block for "forward".(ÜÕˆêøÿÿÿÿ8ï˜óÇç-
+\squid:UselessImportCheck"1Remove this unused import 'com.google.gson.Gson'.(–§8Üßï÷ç-
+osquid:S1192A"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ªÞÃý8µë˜õç-
+\squid:S1155*">Use isEmpty() to check whether the collection is empty or not.(ºÖ™Å8ƒË½§æ-
+gsquid:UselessImportCheck"7Remove this unused import 'org.json.simple.JSONObject'.(‚ƒç‘ÿÿÿÿÿ8Ìü˜øç-

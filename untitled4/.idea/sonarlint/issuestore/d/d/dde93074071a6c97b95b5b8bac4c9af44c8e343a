@@ -1,0 +1,26 @@
+
+œ%squid:RedundantThrowsDeclarationCheckD"fRemove the declaration of thrown exception 'exceptions.TeacherException' which is a runtime exception.(úêîµúÿÿÿÿ
+—%squid:RedundantThrowsDeclarationCheckj"fRemove the declaration of thrown exception 'exceptions.TeacherException' which is a runtime exception.(½ºÜ€
+ysquid:S4087>"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(³úÀ‹
+=squid:S1170"!Make this final field static too.(Ç“Ì¡üÿÿÿÿ
+}squid:S00116"YRename this field "DELETE_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç“Ì¡üÿÿÿÿ8§•Šùç-
+osquid:S00116"WRename this field "SELECT_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñÜ÷
+csquid:S2095:"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ
+?squid:S1170"!Make this final field static too.(øó²Ñ8Ôå•ùç-
+=squid:S1170"!Make this final field static too.(œ°»ƒøÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheckX"fRemove the declaration of thrown exception 'exceptions.TeacherException' which is a runtime exception.(Å Ö¾úÿÿÿÿ
+vsquid:S00116"YRename this field "SELECT_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‚«ôıÿÿÿÿ
+8squid:S1170"!Make this final field static too.(«ñÜ÷
+Usquid:S1155a">Use isEmpty() to check whether the collection is empty or not.(ôÎı…
+8squid:S1170"!Make this final field static too.(‰æ¿º
+{squid:S00116"WRename this field "CREATE_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈ÷íøÿÿÿÿ8õ”ùç-
+msquid:S00116"URename this field "SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰æ¿º
+rsquid:S00116"URename this field "DROP_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ°»ƒøÿÿÿÿ
+Usquid:S1155r">Use isEmpty() to check whether the collection is empty or not.(ôÎı…
+=squid:S1170"!Make this final field static too.(ÂªéÉúÿÿÿÿ
+Usquid:S1155O">Use isEmpty() to check whether the collection is empty or not.(ôÎı…
+=squid:S1170"!Make this final field static too.(È‚«ôıÿÿÿÿ
+nsquid:S00116"QRename this field "INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂªéÉúÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+vsquid:S00116"WRename this field "DELETE_BY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øó²Ñ8Ôå•ùç-
+Dsquid:S1170"!Make this final field static too.(ÿÈ÷íøÿÿÿÿ8õ”ùç-

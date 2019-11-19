@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../out/test/untitled4"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../..">
+		<excludeFolder url="file://$MODULE_DIR$/../../.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../build"/>
+	</contentEntry>
+	<levels>
+		<level name="jackson-databind-2.0.1" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.0.1" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.core:jackson-core:2.0.1" value="project"/>
+		<level name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.0.1" value="project"/>
+		<level name="Gradle: com.googlecode.json-simple:json-simple:1.1" value="project"/>
+		<level name="Gradle: com.google.code.gson:gson:2.8.5" value="project"/>
+	</levels>
+</component>

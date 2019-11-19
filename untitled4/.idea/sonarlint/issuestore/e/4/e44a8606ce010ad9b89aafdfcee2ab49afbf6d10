@@ -1,0 +1,10 @@
+
+1squid:S1220""Move this file to a named package.
+Hsquid:S1481",Remove this unused "lessons" local variable.(×Şê´ùÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "lessons".(×Şê´ùÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'com.fasterxml.jackson.core.JsonToken'.(–úç
+¦%squid:RedundantThrowsDeclarationCheck""nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦ş8Å‰üöç-
+isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(º‡öÀ8Å‰üöç-
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ÆŠ¶öÿÿÿÿÿ8Å‰üöç-
+isquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ò“íç8Å‰üöç-
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ÅÅ«ÿÿÿÿÿ8Å‰üöç-
